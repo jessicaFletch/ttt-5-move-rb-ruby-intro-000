@@ -7,3 +7,8 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+
+def input_to_index (position)
+  puts "Pick a number 1-9"
+  position.to_i
+end
