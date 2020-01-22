@@ -24,7 +24,7 @@ def update_array_at_with (array, index, value)
   array[index] = value
 end
 
-def move ()
+def move (board, position, character)
   array[index]
 
 end
