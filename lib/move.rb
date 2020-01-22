@@ -11,4 +11,5 @@ end
 def input_to_index (position)
   puts "Pick a number 1-9"
   position.to_i
+  positon -1
 end
